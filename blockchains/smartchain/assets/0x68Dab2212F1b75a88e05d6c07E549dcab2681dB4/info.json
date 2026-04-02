@@ -1,0 +1,17 @@
+{
+    "name": "USDT.z",
+    "symbol": "USDT.z",
+    "type": "BEP20",
+    "decimals": 18,
+    "description": "USDT.z is a stablecoin pegged 1:1 to the US Dollar on the BNB Smart Chain.",
+    "website": "https://tether.to",
+    "explorer": "https://bscscan.com/token/0x68Dab2212F1b75a88e05d6c07E549dcab2681dB4",
+    "status": "active",
+    "id": "0x68Dab2212F1b75a88e05d6c07E549dcab2681dB4",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/Tether_to"
+        }
+    ]
+}
