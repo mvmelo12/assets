@@ -12,6 +12,17 @@
         {
             "name": "twitter",
             "url": "https://x.com/Tether_to"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/OfficialTether"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://www.coingecko.com/en/coins/tether"
         }
+    ],
+    "tags": [
+        "stablecoin"
     ]
 }
